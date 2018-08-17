@@ -1,0 +1,2 @@
+CREATE CLUSTERED COLUMNSTORE INDEX [PK_Dimension_Employee] 
+ON [Dimension].[Employee] WITH (DROP_EXISTING = ON)
