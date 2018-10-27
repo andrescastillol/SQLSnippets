@@ -16,3 +16,4 @@ VALUES
         ('client2', 'country2', 'industry2'),
         ('clientn', 'countryn', 'industryn');
 
+-- Adding more
